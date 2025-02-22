@@ -1,5 +1,8 @@
 # Bike Sharing Case Study
-> Outline a brief description of your project.
+> This case study is done for a bike sharing company using Supervised Linear regression. 
+> The overall output for the study is to provide a linear regression model which can best fit the provided dataset.
+> Identify the variables or factors which influence the overall demand of bike sharing.
+> Recommendations of the model.
 
 
 ## Table of Contents
